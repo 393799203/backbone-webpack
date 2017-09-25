@@ -1,0 +1,18 @@
+{
+  "Stat": {
+    "js": "/public/Stat.3e9574f49ffda1ce6253.js"
+  },
+  "Home": {
+    "js": "/public/Home.eb11ca3f7e857509c773.js"
+  },
+  "manifest": {
+    "js": "/public/manifest.adda29c08eb86733aefa.js"
+  },
+  "app": {
+    "js": "/public/app.7fa36f9a3afefda2bec2.js",
+    "css": "/public/app.7fa36f9a3afefda2bec2.css"
+  },
+  "vendor": {
+    "js": "/public/vendor.6fd07452610db566523f.js"
+  }
+}
